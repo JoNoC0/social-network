@@ -1,5 +1,5 @@
 // set express requirement
-const router= require('express').Router();
+const router = require('express').Router();
 
 // set user and thought routes
 const userRoutes = require('./user-routes');
