@@ -1,7 +1,7 @@
 {
   "name": "social-network",
   "version": "1.0.0",
-  "description": "Social Network API",
+  "description": "Social Network",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,7 +21,7 @@
   "dependencies": {
     "express": "^4.17.2",
     "moment": "^2.29.1",
-    "mongoose": "^6.1.7",
+    "mongoose": "^5.9.9",
     "nodemon": "^2.0.15"
   }
 }

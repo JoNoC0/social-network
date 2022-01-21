@@ -3,7 +3,7 @@ const router = require('express').Router();
 
 //  set requirements from user-controller
 const {
-    getAllUser,
+    getAllUsers,
     getUserById,
     createUser,
     updateUser,
@@ -12,9 +12,10 @@ const {
     deleteFriend
 } = require('../../controllers/user-controller');
 
+
 // GET, POST to /api/users
 router.route('/')
-    .get(getAllUser)
+    .get(getAllUsers)
     .post(createUser);
 
 // GET, PUT, DELETE /api/users/:id

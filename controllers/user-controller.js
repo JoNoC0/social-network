@@ -12,7 +12,7 @@ const userController = {
     },
 
     // Get All Users
-    getAllUser(req, res) {
+    getAllUsers(req, res) {
         User.find({})
             // populate users thoughts
             .populate({ path: 'thoughts', select: '-__v' })
