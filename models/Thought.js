@@ -1,4 +1,4 @@
-const { Schema, model, Types } = ('mongoose');
+const { Schema, model, Types } = require('mongoose');
 const moment = require('moment');
 
 // ReactionSchema
