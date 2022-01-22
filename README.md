@@ -12,7 +12,6 @@
 
   ## Table of Contents
  <li><a href="#installation">Installation</a></li>
- <li><a href="#usage">Usage</a></li>
  <li><a href="#credit">Credit</a></li>
  <li><a href="#contribute">Contribute</a></li>
  <li><a href="#license">License</a></li>
@@ -31,11 +30,18 @@
   7. Query Database.
   8. Full walkthrough video [here](#video) 
 
-  # Usage
-
-  # Video
-  * 
-  * 
+  # Video 
+  ## USERS Walkthrough <br>
+  ### Video demonstrates POST, PUT, UPDATE, DELETE, and FIND ALL USERS and by ID<br>
+  <a href="https://watch.screencastify.com/v/6qICZO7rP7vKSOXrpn68">USER DEMO</a><br>
+  <img src="https://github.com/JoNoC0/social-network/blob/main/assets/images/Social-Network-USERS.gif?raw=true"></img>
+<br>
+  ## THOUGHTS, FRIENDS, REACTIONS Walkthrough <br>
+  ### Video demonstrates POST, PUT, UPDATE, DELETE, and FIND ALL THOUGHT and by ID
+  ### Also, POST and DELETE for FRIENDS and REACTIONS
+<br>
+  <a href="https://watch.screencastify.com/v/1pvcPXpkIeUytCFtHw31">THOUGHT, FRIEND, REACTION DEMO</a> <br>
+  <img src="https://github.com/JoNoC0/social-network/blob/main/assets/images/SocialNetwork-Thoughts%2C%20Friend%2C%20Reaction.gif?raw=true"></img>
 
   # Credits
 
@@ -56,4 +62,5 @@
 <li><a href="mailto:jnguyeningco@gmail.com">Email</a>
 <li><a href="https://www.linkedin.com/in/john-nguyen-49158621a">Linked In</a>
 <li><a href="https://github.com/JoNoC0">GitHub JoNoC0</a>
+<li><a href="https://github.com/JoNoC0/social-network">Social Network Repo</a>
   
